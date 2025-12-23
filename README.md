@@ -1,6 +1,6 @@
 ## Learning the basics of Blender
 
-# week 1
+# week 1: modeling objects
 so far i have learned how to do the basic stuff on blende related to movo object around, add simple object, editi object etc
 <img width="1919" height="985" alt="Screenshot_7" src="https://github.com/user-attachments/assets/6c9c9da1-c036-4294-bb9a-9c89899851e4" />
 <img width="1578" height="992" alt="Screenshot_8" src="https://github.com/user-attachments/assets/00815ead-c61e-4a71-9d70-5fa6937ccd34" />
