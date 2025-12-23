@@ -1,4 +1,6 @@
 ## Learning the basics of Blender
+# week 2: material
+<img width="1919" height="1041" alt="Screenshot_10" src="https://github.com/user-attachments/assets/39c413bf-0929-435c-b0b8-1f4a81e71634" />
 
 # week 1: modeling objects
 so far i have learned how to do the basic stuff on blende related to movo object around, add simple object, editi object etc
