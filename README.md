@@ -1,5 +1,6 @@
 ## Learning the basics of Blender
 # week 2: material
+<img width="1919" height="1017" alt="Screenshot_12" src="https://github.com/user-attachments/assets/e8f8a89a-b278-4269-9a41-95534b556c62" />
 <img width="1919" height="1041" alt="Screenshot_10" src="https://github.com/user-attachments/assets/39c413bf-0929-435c-b0b8-1f4a81e71634" />
 
 # week 1: modeling objects
